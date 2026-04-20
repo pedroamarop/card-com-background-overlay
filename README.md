@@ -1,19 +1,20 @@
-📄 README — social-hub-project
+🎨 Card com Background Overlay
 
-🌐 Social Hub Project
-
-Projeto simples de interface que simula um hub de redes sociais, com foco em organização visual e estilização com CSS.
+Projeto de uma página com hero section e cards estilizados usando overlay em imagens.
 
 🚀 Sobre
 
-A página reúne links ou seções de redes sociais em um layout moderno e centralizado, ideal para treinar estrutura de layout e design.
+Landing page simples com destaque para:
+	•	Imagem de fundo com overlay
+	•	Texto em destaque
+	•	Cards com efeito visual
 
 🛠️ Tecnologias
 	•	HTML5
-	•	CSS3
+	•	CSS3 (Flexbox)
 
 🎯 Funcionalidades
-	•	Layout centralizado
-	•	Estilização moderna
-	•	Uso de ícones (Font Awesome)
-	•	Estrutura simples e organizada
+	•	Hero com imagem + gradient overlay
+	•	Grid de cards
+	•	Efeitos de hover
+	•	Uso de variáveis CSS
